@@ -534,6 +534,12 @@ var games = [
     url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/gertdoro/Toolkit@147a37a734f3e4f155e48dbda25000afdc2970ba/Apps/Helix.xml',
     image: 'https://play-lh.googleusercontent.com/cZHORa1z78dfMsP_nxCkplmHGUx5wfjY0x2jK59GWL7rUL5o6c_KiQ7QL9o4T22qbH8'
   },
+    {
+    id: 'tinyFishing',
+    title: 'Tiny Fishing',
+    url: 'https://55gms.com/misc/tiny-fishing/index.html',
+    image: '/misc/tiny-fishing/thumb.webp'
+  },
   {
     id: 'raccoonretail',
     title: 'Raccoon Retail',
