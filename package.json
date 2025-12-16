@@ -1,7 +1,7 @@
 {
-  "name": "artclass",
+  "name": "Tubers Class",
   "version": "4.0.0",
-  "description": "More than just a game site",
+  "description": "Meilleur sites de jeux du 76",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
