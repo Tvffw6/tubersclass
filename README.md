@@ -2,7 +2,7 @@
 Art Class has officially shut down and stopped development as of March 2nd, 2025. Thank you all for being apart of this. Feel free to fork this and host it yourself, but this repo will no longer be maintained.
 
 <div align="center">
-  <img src="public/assets/images/icon.png" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYHEC96bdsJpgrfkdWtMsws7Rw-kmy0cT8pw&s" />
   <h1>Art Class v4</h1>
 </div>
 A website with tons of games, apps, built-in proxy, emulator, and more fun goodies. If you fork this repository, please consider giving it a star ⭐!
