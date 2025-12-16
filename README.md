@@ -1,36 +1,13 @@
-# ⚠️ A notice about Art Class's future
-Art Class has officially shut down and stopped development as of March 2nd, 2025. Thank you all for being apart of this. Feel free to fork this and host it yourself, but this repo will no longer be maintained.
+# Bienvenue dans Tubers-class La Beta de mes site debloquer
+
+Jautorize le fait de le partager a tout le monde le but je vais cree plusieur lien differant du meme site comme sa si un site et bloquer il en auras un autre qui seras exactement le meme
 
 <div align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYHEC96bdsJpgrfkdWtMsws7Rw-kmy0cT8pw&s" />
-  <h1>Art Class v4</h1>
+  <h1>Tubers Class v1</h1>
 </div>
-A website with tons of games, apps, built-in proxy, emulator, and more fun goodies. If you fork this repository, please consider giving it a star ⭐!
+# SI QUELQUN DIT QUE C LUI QUI A DECOUVERT CES SITE C UN MENTEUR LE VRAIX CREATEUR ET YASSINE B
 
-## Deploy to a cloud service
-[![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/art-class/v4)
-[![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/art-class/v4)
-[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/art-class/v4&branch=main&name=v4)
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/art-class/v4)
-[![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/art-class/v4)
+# DERNIER CHOSE C UNE BETA C PAS DAUTRE LIEN SERONS DISPOT CES VACENCES
 
-> You currently cannot deploy Art Class to a static host, such as Netlify, Cloudflare Pages, or GitHub Pages. This feature is planned in a future update. Vercel does work - however, it is experimental and some things may not work as intended.
-
-## Run locally
-
-You need [NodeJS](https://nodejs.org) and [Git](https://git-scm.com/download) installed on your system.
-
-````bash
-git clone https://github.com/art-class/v4.git # Clone the repo
-npm install # Install packages
-npm start # Start the bare server + serve static files
-````
-
-## Support
-Most issues can be answered by [opening an issue](https://github.com/art-class/v4/issues).
-
-You can also join our [Discord server](https://discord.gg/desmos) for more support, or to get links.
-
-## Contributors
-
-[![Contrib](https://contrib.rocks/image?repo=art-class/v4#)](https://github.com/art-class/v4/graphs/contributors)
+# TOUT LES COLLEGES ON LE DROIT AU SITES MAIS LE SITES VIEN DU COLLEGES EMILE ZOLA SOTTEVILLE LES ROUEN 
